@@ -1,5 +1,9 @@
 # VLSI Semiconductor Circuits & Cisco Network Systems 🔌📡
 
+> 💡 **Related Engineering Repository:** Looking for software algorithms, data structures (Stacks, Sorting), C++ OpenGL graphics, and CS50 cybersecurity projects? Explore [**university-and-legacy-code-archive**](https://github.com/FarjiaDristy/university-and-legacy-code-archive).
+
+---
+
 **Author:** FarjiaDristy ([@FarjiaDristy](https://github.com/FarjiaDristy))  
 **Domain:** Computer Engineering • CMOS VLSI Design • Network Infrastructure  
 
