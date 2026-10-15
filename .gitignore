@@ -1,0 +1,12 @@
+# Simulation output raw data and logs (heavy binaries)
+*.raw
+*.op.raw
+*.log
+*.tmp
+*.bak
+
+# OS & Editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
